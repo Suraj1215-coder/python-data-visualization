@@ -1,0 +1,10 @@
+# Local Python environment and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter auto-save files
+**/.ipynb_checkpoints/
+
+# Local application logs
+*.log
